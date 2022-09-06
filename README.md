@@ -4,8 +4,8 @@ nasty back-end dev
 
 ## 🌐 Socials:
 
-<div>
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="150"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nicolasdcarneiro/"/>
 </div>
 
 ## teste
