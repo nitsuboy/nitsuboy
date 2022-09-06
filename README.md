@@ -3,6 +3,13 @@ nasty back-end dev
 
 
 ## 🌐 Socials:
+
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="150"/>
+</div>
+
+## teste
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-carneiro-07921a244) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sucodechorume69) 
 
 # 💻 Tech Stack:
