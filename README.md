@@ -4,8 +4,6 @@ nasty back-end dev
 
 ## Socials:
 
-![C]
-
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nicolasdcarneiro"/>
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" href="https://twitch.tv/sucodechorume69"/>
